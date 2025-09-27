@@ -5,11 +5,10 @@
 }
 body{
     background-image: url("../images/regs.jpg");
-    
-    
-    /* background-size: cover;
-    background-position: center; */
-    /* margin-top: 0px; */
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    margin-top: 0px; 
     
 }
 .main{
@@ -129,10 +128,10 @@ input {
   }
   
   /* Style the submit button */
-  /* input[type=submit] {
+   input[type=submit] {
     background-color: #04AA6D;
     color: white;
-  } */
+  } 
   
   /* Style the container for inputs */
   .container {
