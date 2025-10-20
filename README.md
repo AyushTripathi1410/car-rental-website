@@ -11,46 +11,63 @@ This platform allows users to **book cars online** and admins to **manage vehicl
 - 📅 Booking Status Tracking  
 - 🧑‍💼 Admin Dashboard for Vehicle & User Management  
 - 💳 Secure Payment Integration  
-- 📱 Responsive UI Design  
+- 📱 Responsive UI Design
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP  
-- **Database:** MySQL  
+| Category      | Technologies               |
+|---------------|-----------------------------|
+| Frontend      | HTML, CSS, JavaScript       |
+| Backend       | PHP                         |
+| Database      | MySQL                       |
 
 ---
 
 ## 📂 Project Structure
 car-rental-website/
-│── css/
-│── database/
-│── feedback/
-│── images/
-│── index.php
-│── aboutus.html
-│── booking.php
-│── payment.php
-│── adminbook.php
-│── admindash.php
-│── connection.php
-│── register.php
+│── css/ # Stylesheets
+│── database/ # Database files
+│── feedback/ # Feedback form and related files
+│── images/ # Image assets
+│── index.php # Home page
+│── aboutus.html # About page
+│── booking.php # Booking page
+│── payment.php # Payment page
+│── adminbook.php # Admin booking page
+│── admindash.php # Admin dashboard
+│── connection.php # Database connection
+│── register.php # User registration
 │── ...
 
+yaml
+Copy code
+
+---
+
+## 🚀 How to Run Locally
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/AyushTripathi1410/car-rental-website.git
+Move the project folder to your local server directory (e.g., htdocs if using XAMPP).
+
+Import the SQL file from the database folder into phpMyAdmin.
+
+Start XAMPP and enable Apache & MySQL.
+
+Open your browser and navigate to:
+http://localhost/car-rental-website
 
 🧭 Future Enhancements
-
 🔐 Add two-factor authentication for users
 
 🧾 Generate downloadable booking invoices
 
-🌐 Add Google Maps API for location tracking
+🌐 Integrate Google Maps API for location tracking
 
 ✨ Add dark mode UI
 
 👨‍💻 Author
-
 Ayush Tripathi
 
 📧 For any queries or suggestions, feel free to reach out!
