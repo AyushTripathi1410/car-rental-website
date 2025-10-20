@@ -58,7 +58,7 @@ Start XAMPP and enable Apache & MySQL.
 Open your browser and navigate to:
 http://localhost/car-rental-website
 
-🧭 Future Enhancements
+🧭 **Future Enhancements:**
 🔐 Add two-factor authentication for users
 
 🧾 Generate downloadable booking invoices
@@ -67,7 +67,7 @@ http://localhost/car-rental-website
 
 ✨ Add dark mode UI
 
-👨‍💻 Author
+**👨‍💻 Author**
 Ayush Tripathi
 
 📧 For any queries or suggestions, feel free to reach out!
