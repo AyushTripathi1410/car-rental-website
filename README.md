@@ -25,6 +25,7 @@ This platform allows users to **book cars online** and admins to **manage vehicl
 ---
 
 ## 📂 Project Structure
+---
 car-rental-website/
 │── css/ # Stylesheets
 │── database/ # Database files
@@ -40,8 +41,6 @@ car-rental-website/
 │── register.php # User registration
 │── ...
 
-yaml
-Copy code
 
 ---
 
@@ -58,6 +57,8 @@ Start XAMPP and enable Apache & MySQL.
 Open your browser and navigate to:
 http://localhost/car-rental-website
 
+---
+
 🧭 **Future Enhancements:**
 🔐 Add two-factor authentication for users
 
@@ -67,8 +68,11 @@ http://localhost/car-rental-website
 
 ✨ Add dark mode UI
 
+---
 **👨‍💻 Author**
 Ayush Tripathi
 
 📧 For any queries or suggestions, feel free to reach out!
 ⭐ If you like this project, consider giving it a star on GitHub!
+
+---
